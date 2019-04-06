@@ -1,0 +1,14 @@
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\bin\Debug\netcoreapp2.2\botcom.deps.json
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\bin\Debug\netcoreapp2.2\botcom.runtimeconfig.json
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\bin\Debug\netcoreapp2.2\botcom.runtimeconfig.dev.json
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\bin\Debug\netcoreapp2.2\botcom.dll
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\bin\Debug\netcoreapp2.2\botcom.pdb
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\obj\Debug\netcoreapp2.2\botcom.csprojAssemblyReference.cache
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\obj\Debug\netcoreapp2.2\botcom.csproj.CoreCompileInputs.cache
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\obj\Debug\netcoreapp2.2\botcom.RazorAssemblyInfo.cache
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\obj\Debug\netcoreapp2.2\botcom.RazorAssemblyInfo.cs
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\obj\Debug\netcoreapp2.2\botcom.AssemblyInfoInputs.cache
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\obj\Debug\netcoreapp2.2\botcom.AssemblyInfo.cs
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\obj\Debug\netcoreapp2.2\botcom.RazorTargetAssemblyInfo.cache
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\obj\Debug\netcoreapp2.2\botcom.dll
+C:\mindenJoSHasztalan\SecondSun\Legacy\Projects\Auhacks19\botcom\obj\Debug\netcoreapp2.2\botcom.pdb
