@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using botcom.Logic;
 using Microsoft.AspNetCore.Mvc;
 
 namespace botcom.Controllers
@@ -10,18 +11,23 @@ namespace botcom.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        numHolder nufm;
+        int num = 0;
         // GET api/values
+        //from phone
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            String s = num.ToString();
+            return s;
         }
 
         // GET api/values/5
+        //from board
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        public void Get(int id)
         {
-            return "value";
+            num++;
         }
 
         // POST api/values
