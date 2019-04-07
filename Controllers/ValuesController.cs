@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using botcom.Logic;
 using Microsoft.AspNetCore.Mvc;
 
 namespace botcom.Controllers
@@ -11,7 +10,6 @@ namespace botcom.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        numHolder nufm;
         int num = 0;
         // GET api/values
         //from phone
